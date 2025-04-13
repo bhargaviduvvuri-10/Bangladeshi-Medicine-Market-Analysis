@@ -26,7 +26,7 @@ Negative correlation observed between market competitiveness and average drug pr
 Dosage sizes vary but unit consistency was analyzed
 
 ## 🎯 Business-Focused Questions
-Anti-Malarial Drugs:
+### Anti-Malarial Drugs:
 
 5 anti-malarial generics identified
 
@@ -36,22 +36,21 @@ Paracetamol IV Infusion has 5 manufacturers
 
 Mefloquine's suggested competitive entry price: ~39.61 BDT/unit
 
-Insulin Drugs:
+### Insulin Drugs:
 
 57 brands from 11 manufacturers
 
-Anti-Hypertensive Drugs:
+### Anti-Hypertensive Drugs:
 
 249 brands from 68 manufacturers
 
 More competitive than insulin segment
 
-## 🧰 Tools & Technologies Used
-Tool	Purpose
-Power BI	Data visualization and dashboard creation
-Power Query	Data transformation and cleaning
-DAX	Custom KPIs and measures
-MS Excel / CSV	Source data format
+## 🧰 Tools & Technologies used
+1. Power BI for	Data visualization and dashboard creation
+2. Power Query	Data transformation and cleaning
+3. DAX	Custom KPIs and measures
+4. CSV	Source data format
 ## 💡 Recommendations
 Enter Anti-Malarial Market through low-competition generics such as Mefloquine with competitive pricing.
 
@@ -62,4 +61,6 @@ Target less competitive anti-pyretic combinations for higher market penetration.
 Use pricing intelligence to remain competitive in high competition drug classes.
 
 Prioritize dosage forms like tablets and syrups for wider market appeal.
+## 🙋‍♂️ Author
+Lakshmi Bhargavi Duvvuri
 
